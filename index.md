@@ -2,7 +2,9 @@
 title: Home
 sections:
   - type: hero_section
-    title: Archival research in Italy
+    title: >-
+      How did the department“Gabinetto disegni estampe” develop inItalian
+      museums?
     subtitle: >-
       The musealisation of prints and drawings and the birth of Gabinetti
       disegni e stampe in Italian State museums (1860-1909)
