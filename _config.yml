@@ -116,3 +116,4 @@ exclude:
   - README.md
   - netlify.toml
   - stackbit-build.sh
+domain: 'https://smiling-cabbage-e6005.netlify.app'
