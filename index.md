@@ -4,10 +4,8 @@ sections:
   - type: hero_section
     title: Archival research in Italy
     subtitle: "How did the department\_“Gabinetto disegni e\_stampe” develop in\_Italian museums?"
-    content: |-
-      This book is your go-to guide for all marketing channels. Learn how to
-      create effective landing pages, compelling ads, creative copywriting and
-      converting marketing materials for any business.
+    content: |
+      Text
     actions:
       - label: Get the book
         url: /pricing
