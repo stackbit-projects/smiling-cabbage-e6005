@@ -11,7 +11,7 @@ mode: light
 base_font: serif
 header:
   title: Marketing Playbook
-  logo: images/logo.svg
+  logo: images/Component 1.png
   logo_alt: Marketing Playbook logo
   has_primary_nav: true
   primary_nav_links:
