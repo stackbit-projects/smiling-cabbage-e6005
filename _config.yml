@@ -96,12 +96,7 @@ footer:
       new_window: false
       no_follow: false
       type: action
-  content: >-
-    &copy; Big Science Publishing. All rights reserved. This Jamstack site was
-    created with <a href="https://www.stackbit.com/?utm_source=deployed-footer"
-    target="_blank" rel="noopener">Stackbit</a>. Create yours <a
-    href="https://app.stackbit.com/create?theme=book&utm_source=deployed-footer"
-    target="_blank" rel="noopener">now</a>
+  content: '&copy; Big Science Publishing. All rights reserved. '
 sass:
   indentWidth: 4
   style: expanded
