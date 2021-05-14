@@ -3,7 +3,7 @@ title: Home
 sections:
   - type: hero_section
     title: >-
-      How did the department “Gabinetto disegni estampe” develop inItalian
+      How did the department “Gabinetto disegni e stampe” develop in Italian
       museums?
     subtitle: >-
       The musealisation of prints and drawings and the birth of Gabinetti
