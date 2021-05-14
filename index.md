@@ -11,7 +11,7 @@ sections:
     content: |
       text
     actions:
-      - label: Get the book
+      - label: Take me directly to the thesis
         url: /pricing
         style: primary
         has_icon: true
