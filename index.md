@@ -22,7 +22,7 @@ sections:
     padding_bottom: large
     background_color: none
   - type: grid_section
-    title: 'Read by marketers at:'
+    title: Where?
     align: center
     grid_items:
       - image: images/logo-1.svg
