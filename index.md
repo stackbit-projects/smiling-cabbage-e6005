@@ -3,7 +3,7 @@ title: Home
 sections:
   - type: hero_section
     title: Archival research in Italy
-    subtitle: Your guide to B2B marketing in the real world.
+    subtitle: "How did the department\_“Gabinetto disegni e\_stampe” develop in\_Italian museums?"
     content: |-
       This book is your go-to guide for all marketing channels. Learn how to
       create effective landing pages, compelling ads, creative copywriting and
