@@ -231,7 +231,7 @@ sections:
   - type: cta_section
     title: Sign me up for updates
     actions:
-      - label: Get the e-book
+      - label: sign-up
         url: /pricing
         style: primary
     actions_position: bottom
