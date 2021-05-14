@@ -80,7 +80,7 @@ sections:
       - title: |-
           “This book is inspiring and practical. It’s thought-provoking and full
           of examples which definitely motivates me”
-        subtitle: 'Hilary Ouse, Sr. Marketing Manager at Company'
+        subtitle: text
         image: images/hilary-ouse.png
         image_alt: Brandon Guidelines
         media_position: left
