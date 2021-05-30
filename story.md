@@ -28,12 +28,25 @@ seo:
       relativeUrl: true
 layout: page
 ---
+## Selected works
 
-In the past, whenever a young man or woman wanted to be great at something, they would look to learn it from a master. This is how apprenticeships started, nowadays known as internships. Even when universities, colleges and educational institutions mushroomed all over the world, people still seek the guidance of a mentor to help them achieve their full potential and teach them tricks of the trade along the way.
+*   dfkj
 
-## Digital Age Mentorship
+*   sldkj
 
-![](/images/story.jpg)
+*   sdlfkj
+
+## Co-Curated Exhibitions
+
+*   [Wir Heben Ab!](https://www.smb.museum/en/museums-institutions/kupferstichkabinett/exhibitions/detail/time-for-take-off/)
+
+
+
+## All academic publications
+
+You can find them [here in the institutional repository ](https://iris.imtlucca.it/browse?type=author\&authority=rp01154\&sort_by=2\&order=DESC#.YLNsQZMza3I)of IMT Lucca. 
+
+## Other stuff
 
 Fast forward to the 2000s, and you'll find that less people are willing to dedicate their time to help young professionals grow, and fewer novices know to reach out and ask.
 
@@ -45,4 +58,4 @@ This is why I decided to create a practical guide that would serve as an interns
 
 There's nothing like trying things out for yourself.
 
-In my book, you will find countless guides, tutorials, walk throughs, worksheets and collateral starters, to help you roll up your sleeves and apply your learnings. We even offer 1hr consultations by seasoned professionals, monthly webinars, and live Q&A sessions to help you hone in on the topics that are most relevant to your work.
+In my book, you will find countless guides, tutorials, walk throughs, worksheets and collateral starters, to help you roll up your sleeves and apply your learnings. We even offer 1hr consultations by seasoned professionals, monthly webinars, and live Q\&A sessions to help you hone in on the topics that are most relevant to your work.![](https://www.youtube.com/watch?v=DuTfG2WLSxU\&feature=emb_title)
