@@ -118,7 +118,7 @@ sections:
     background_image_size: cover
     background_image_opacity: 10
   - type: grid_section
-    title: Thesis Chapter  Overview
+    title: Chapter  Overview
     grid_items:
       - content: |-
           ### Know Your Audience
