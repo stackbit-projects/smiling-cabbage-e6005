@@ -75,6 +75,7 @@ sections:
         image_alt: Look inside Marketing Playbook
         media_position: right
         media_width: fifty
+        image: images/map_it.png
       - title: lorem-ipsum
         subtitle: lorem-ipsum
         content: >-
