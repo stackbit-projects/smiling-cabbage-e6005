@@ -30,7 +30,7 @@ layout: page
 ---
 ## Selected works
 
-*   dfkj
+*   [“Mostre permanenti”. Carlo Ludovico Ragghianti in un secolo di esposizioni](https://www.fondazioneragghianti.it/prodotto/mostre-permanenti/)
 
 *   sldkj
 
@@ -40,11 +40,9 @@ layout: page
 
 *   [Wir Heben Ab!](https://www.smb.museum/en/museums-institutions/kupferstichkabinett/exhibitions/detail/time-for-take-off/)
 
-
-
 ## All academic publications
 
-You can find them [here in the institutional repository ](https://iris.imtlucca.it/browse?type=author\&authority=rp01154\&sort_by=2\&order=DESC#.YLNsQZMza3I)of IMT Lucca. 
+You can find them [here in the institutional repository ](https://iris.imtlucca.it/browse?type=author\&authority=rp01154\&sort_by=2\&order=DESC#.YLNsQZMza3I)of IMT Lucca.
 
 ## Other stuff
 
