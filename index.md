@@ -55,7 +55,7 @@ sections:
     grid_gap_vert: medium
   - type: features_section
     features:
-      - title: What’s Inside
+      - title: Local hubs
         subtitle: How this book will teach you real world marketing
         content: |-
           - All you need to know about PPC
