@@ -1,5 +1,5 @@
 ---
-title: Story About the Book
+title: Organisation of Prints and Drawings
 seo:
   title: Story About the Book
   description: This is the about page
