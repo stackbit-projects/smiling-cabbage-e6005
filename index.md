@@ -72,7 +72,6 @@ sections:
             has_icon: true
             icon: arrow-right
             icon_position: right
-        image: images/book-inside.png
         image_alt: Look inside Marketing Playbook
         media_position: right
         media_width: fifty
