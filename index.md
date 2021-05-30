@@ -25,7 +25,6 @@ sections:
     padding_top: large
     padding_bottom: large
     background_color: none
-    video_embed_html: 'https://www.youtube.com/watch?v=DuTfG2WLSxU'
   - type: grid_section
     title: Where?
     align: center
