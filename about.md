@@ -155,10 +155,7 @@ sections:
           * 1hr consultation
           * eMail feedback session
         content_align: left
-        actions:
-          - label: Start with Professional
-            url: /thank-you
-            style: primary
+        actions: []
         actions_align: left
         actions_width: full-width
       - title: Predella
