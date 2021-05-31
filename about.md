@@ -131,6 +131,7 @@ sections:
         image: images/adorable-apple.jpeg
         image_alt: Logo 1
         image_align: center
+        image_position: bottom
       - title: Greenwich
         subtitle: For marketers at companies
         title_align: left
