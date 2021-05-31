@@ -3,9 +3,7 @@ title: Home
 sections:
   - type: hero_section
     title: Museology of Works on Paper
-    subtitle: >-
-      The musealisation of prints and drawings and the birth of Gabinetti
-      disegni e stampe in Italian State museums (1860-1909)
+    subtitle: In Academia and Museums
     content: |
       text
     actions: []
