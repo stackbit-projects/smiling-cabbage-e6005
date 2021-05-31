@@ -81,7 +81,7 @@ sections:
     background_image_opacity: 10
   - type: features_section
     features:
-      - title: What’s Inside
+      - title: Publications
         subtitle: 'Brandon Guidelines, Marketing Guru'
         content: |-
           **Marketing in the real world** is very different than what we learn
