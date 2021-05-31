@@ -10,13 +10,7 @@ sections:
       disegni e stampe in Italian State museums (1860-1909)
     content: |
       text
-    actions:
-      - label: Take me directly to the thesis
-        url: /pricing
-        style: primary
-        has_icon: true
-        icon: arrow-right
-        icon_position: right
+    actions: []
     image_alt: Marketing Playbook preview
     media_position: left
     media_width: fourty
