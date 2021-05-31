@@ -82,7 +82,9 @@ sections:
   - type: features_section
     features:
       - title: Publications
-        subtitle: 'Brandon Guidelines, Marketing Guru'
+        subtitle: >-
+          You can find the all here, at the institutional repository of IMT
+          Lucca.
         content: |-
           **Marketing in the real world** is very different than what we learn
           at school. If you've recently graduated and are making your first
