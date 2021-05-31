@@ -56,6 +56,9 @@ grid_cols: four
 grid_gap_horiz: medium
 grid_gap_vert: medium
 ---
+
+## Selected works
+
 ![](/\_static/app-assets/copertina-mostre-ragghianti-600x786.jpeg)
 
 *   [“Mostre permanenti”. Carlo Ludovico Ragghianti in un secolo di esposizioni](https://www.fondazioneragghianti.it/prodotto/mostre-permanenti/)
