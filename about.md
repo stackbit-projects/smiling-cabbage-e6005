@@ -78,7 +78,7 @@ sections:
     background_image_repeat: no-repeat
     background_image_size: cover
     background_image_opacity: 10
-- - type: grid_section
+- type: grid_section
     grid_items:
       - title: Student
         subtitle: For college students and educators
