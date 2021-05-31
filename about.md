@@ -128,12 +128,9 @@ sections:
       - title: Ragghianti
         subtitle: For college students and educators
         title_align: left
-        content: |
-          ***
-        content_align: left
-        actions: []
-        actions_align: left
-        actions_width: full-width
+        image: images/adorable-apple.jpeg
+        image_alt: Logo 1
+        image_align: center
       - title: Greenwich
         subtitle: For marketers at companies
         title_align: left
