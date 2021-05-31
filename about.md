@@ -4,8 +4,11 @@ sections:
   - type: hero_section
     title: Museology of Works on Paper
     subtitle: In Academia and Museums
-    content: |
-      text
+    content: >
+      I like prints. Currently, I catalogue and research them, or create
+      exhibitions at the Kupferstich @ Berlin. Before I studied them: how their
+      collections came to be in Italy @ IMT Lucca. Or I write about them @
+      Grafica d 'Arte. 
     actions: []
     image_alt: Marketing Playbook preview
     media_position: left
