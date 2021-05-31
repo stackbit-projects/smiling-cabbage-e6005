@@ -19,7 +19,7 @@ sections:
     padding_bottom: large
     background_color: none
   - type: grid_section
-    title: Where?
+    title: Selected Works
     align: center
     grid_items:
       - image: images/adorable-apple.jpeg
