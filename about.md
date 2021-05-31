@@ -44,7 +44,7 @@ sections:
     grid_gap_horiz: medium
     grid_gap_vert: medium
   - type: grid_section
-    title: Co-Curated Exhibitions
+    title: Co-Curations
     grid_items:
       - content: |-
           #### Marketers
