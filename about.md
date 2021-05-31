@@ -78,72 +78,51 @@ sections:
     background_image_repeat: no-repeat
     background_image_size: cover
     background_image_opacity: 10
-- type: grid_section
-    grid_items:
-      - title: Student
-        subtitle: For college students and educators
-        title_align: left
+  - type: features_section
+    features:
+      - title: Publications
+        subtitle: >-
+          You can find the all here, at the institutional repository of IMT
+          Lucca.
         content: |-
-          ---
+          **Marketing in the real world** is very different than what we learn
+          at school. If you've recently graduated and are making your first
+          steps in the business, it's imperative that you know how to use the
+          tools and tricks of the trade.
 
 
-          ### $9 eBook
+          > **The world of marketing has changed dramatically in the last 10
+          years. Those who understand it, will succeed. But those who stay
+          behind, will have a lot to catch up on.”**
 
-          * Digital edition
-          * Basic tutorials and worksheets
-          * Access to community group
-        content_align: left
-        actions:
-          - label: Start with Personal
-            url: /thank-you
-            style: primary
-        actions_align: left
-        actions_width: full-width
-      - title: Professional
-        subtitle: For marketers at companies
-        title_align: left
-        content: |-
-          ---
 
-          ### $19 Print + eBook
-
-          * Print + eBook editions
-          * Advanced tutorials
-          * Monthly webinars
-          * 1hr consultation
-          * eMail feedback session
-        content_align: left
-        actions:
-          - label: Start with Professional
-            url: /thank-you
-            style: primary
-        actions_align: left
-        actions_width: full-width
-      - title: Business
-        subtitle: For teams and companies
-        title_align: left
-        content: >-
-          ---
-
-          ### $49 eBook
-
-          * 3 eBooks * Monthly webinars * Bonus chapter per vertical * Live Q&A
-          session * Advanced worksheets
-        content_align: left
-        actions:
-          - label: Start with Business
-            url: /thank-you
-            style: primary
-        actions_align: left
-        actions_width: full-width
-    grid_cols: three
-    grid_gap_horiz: small
-    grid_gap_vert: small
-    enable_cards: true
-    padding_top: small
-    padding_bottom: medium
-    has_border: false
+          In this book I will teach you everything I know about B2B marketing.
+          From branding, marketing planning, content creation, SEO and PPC, to
+          segmenting your audience and understanding today's metrics and
+          analytics methodologies — this guide is the only marketing education
+          you'll ever need.
+        image: images/chiostro_san_francesco.jpeg
+        image_alt: Brandon Guidelines Photo
+        media_position: right
+        media_width: fourty
+    feature_padding_vert: small
+    align: center
     background_color: none
+  - type: cta_section
+    title: Sign me up for updates
+    actions:
+      - label: sign-up
+        url: /pricing
+        style: primary
+    actions_position: bottom
+    align: center
+    padding_top: large
+    padding_bottom: large
+    background_color: primary
+    background_image: images/background-2.jpg
+    background_image_repeat: no-repeat
+    background_image_size: cover
+    background_image_opacity: 10
 seo:
   title: Stackbit Book Theme
   description: The preview of the Book theme
