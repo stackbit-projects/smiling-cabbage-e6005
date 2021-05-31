@@ -138,10 +138,7 @@ sections:
           * Basic tutorials and worksheets
           * Access to community group
         content_align: left
-        actions:
-          - label: Start with Personal
-            url: /thank-you
-            style: primary
+        actions: []
         actions_align: left
         actions_width: full-width
       - title: Greenwich
