@@ -29,7 +29,34 @@ seo:
 layout: page
 ---
 ## Selected works
-
+type: grid_section
+    title: Where?
+    align: center
+    grid_items:
+      - image: images/logo-1.svg
+        image_alt: Logo 1
+        image_align: center
+      - image: images/logo-2.svg
+        image_alt: Logo 2
+        image_align: center
+      - image: images/logo-3.svg
+        image_alt: Logo 3
+        image_align: center
+      - image: images/logo-4.svg
+        image_alt: Logo 4
+        image_align: center
+      - image: images/logo-5.svg
+        image_alt: Logo 5
+        image_align: center
+      - image: images/logo-6.svg
+        image_alt: Logo 6
+        image_align: center
+      - image: images/logo-7.svg
+        image_alt: Logo 7
+        image_align: center
+    grid_cols: four
+    grid_gap_horiz: medium
+    grid_gap_vert: medium
 ![](/\_static/app-assets/copertina-mostre-ragghianti-600x786.jpeg)
 
 *   [“Mostre permanenti”. Carlo Ludovico Ragghianti in un secolo di esposizioni](https://www.fondazioneragghianti.it/prodotto/mostre-permanenti/)
