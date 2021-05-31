@@ -126,7 +126,7 @@ sections:
   - type: grid_section
     grid_items:
       - title: Ragghianti
-        subtitle: For college students and educators
+        subtitle: text
         title_align: left
         image: images/adorable-apple.jpeg
         image_alt: Logo 1
