@@ -27,10 +27,6 @@ seo:
       value: images/story.jpg
       relativeUrl: true
 layout: page
----
-## Selected works
-
----
 type: grid_section
 title: Where?
 align: center
