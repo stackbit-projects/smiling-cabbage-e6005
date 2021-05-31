@@ -125,7 +125,7 @@ sections:
     background_image_opacity: 10
   - type: grid_section
     grid_items:
-      - title: Student
+      - title: Ragghianti
         subtitle: For college students and educators
         title_align: left
         content: |-
