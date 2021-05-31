@@ -128,15 +128,8 @@ sections:
       - title: Ragghianti
         subtitle: For college students and educators
         title_align: left
-        content: |-
-          ---
-
-
-          ### $9 eBook
-
-          * Digital edition
-          * Basic tutorials and worksheets
-          * Access to community group
+        content: |
+          ***
         content_align: left
         actions: []
         actions_align: left
