@@ -169,10 +169,7 @@ sections:
           * 3 eBooks * Monthly webinars * Bonus chapter per vertical * Live Q&A
           session * Advanced worksheets
         content_align: left
-        actions:
-          - label: Start with Business
-            url: /thank-you
-            style: primary
+        actions: []
         actions_align: left
         actions_width: full-width
     grid_cols: three
